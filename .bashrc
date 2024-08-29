@@ -130,3 +130,5 @@ export INFOPATH=/usr/local/texlive/2024/texmf-dist/doc/info:$INFOPATH
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 source /usr/share/doc/fzf/examples/key-bindings.bash
+
+alias ls='nnn -de'
