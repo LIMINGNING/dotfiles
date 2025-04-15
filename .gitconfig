@@ -1,8 +1,6 @@
-[mingningmax]
-	email = mingningmax@gmail.com
-
 [user]
-	name = MINGNING
+    name = MINGNING
+    email = 2664135882@qq.com
 
 [core]
     editor = vi
