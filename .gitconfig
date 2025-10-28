@@ -1,9 +1,14 @@
 [user]
     name = MINGNING
     email = 2664135882@qq.com
-
 [core]
     editor = vi
 
 [alias]
     graph = log --all --graph --decorate --oneline
+[init]
+    defaultBranch = master
+[http]
+    proxy = http://127.0.0.1:7890
+[https]
+    proxy = http://127.0.0.1:7890
